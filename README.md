@@ -1,2 +1,0 @@
-# setme-frenz
-Begin app
